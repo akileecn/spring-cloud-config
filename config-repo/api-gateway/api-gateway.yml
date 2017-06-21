@@ -1,3 +1,1 @@
-zuul:
-  routes:
-    hello-service: from-config/**
+zuul.routes.hello-service=from-config/**
