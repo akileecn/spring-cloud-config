@@ -1,5 +1,5 @@
 zuul:
   routes:
-    hello-service: from-bus/**
+    hello-service: from-bus-kafka/**
 #mysecret
 password: '{cipher}AQCL39A1AWf3r11JPs99BTZJRQDokVyR71QbS457KhOChhjQMIFkxpMsXarhBskkpeYAHmQB05eBrXGFDaqL79zEDFaRgI/GpnJKYEpqFfAXlbXKFDjwhF8iyFEl/rc1WpHm+/BA735VHjtWasQ6rBi8g5MA7mXkr8J8Qt0G9yQ9Oib0s22B3tpzirEv2KwewkS/DE/45mFr/cG65/yUF48WQBvAyZeRRUjfDZxayEd3ihZWrZXj0rDVME5HDFA7nsGHkyNPjgyu57TD+Dm4xpJm0zGARmqRTUT8bOtuNHn0iMqf3NSN3J3zGcEqhuEqq9/MXeVW7DCamGf1KLMP9Gbmf0eAiR09S1xDxaxcD03Rg2EalkdS3WrwVevJyunFRv4='
